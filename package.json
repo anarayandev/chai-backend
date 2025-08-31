@@ -14,5 +14,8 @@
   "scripts": {
     "start": "node index.js",
     "server": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
   }
 }
